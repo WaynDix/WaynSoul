@@ -1,0 +1,52 @@
+{
+  "post": [
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/62fcb9fe2cb11fc39034ed8a?size=100",
+      "name": "Ai Ohto",
+      "type": "Card",
+      "price": 50,
+      "id": 5,
+      "tier": "2"
+    },
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/62ee9de3235adf2a156d5485?size=100",
+      "name": "Shizuru Nakatsu",
+      "type": "Card",
+      "price": 15,
+      "id": 6,
+      "tier": "4"
+    },
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/6299444e976a91c907c542e3?size=100",
+      "name": "Hideo Kosameda",
+      "type": "Card",
+      "price": 12,
+      "id": 7,
+      "tier": "3"
+    },
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/6296e5b174e40649ed4ea157?size=100",
+      "name": "Yoshino Koiwai",
+      "type": "Card",
+      "price": 32,
+      "id": 8,
+      "tier": "5"
+    },
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/626181fcece77fe5d51c7767?size=100",
+      "name": "Mao Nanjou",
+      "type": "Card",
+      "price": 4,
+      "id": 9,
+      "tier": "5"
+    },
+    {
+      "picture": "https://asapi.shoob.gg/site/api/cardr/62d0ea73fb54618f9ce16b02?size=100",
+      "name": "Kouko Kaga",
+      "type": "Card",
+      "price": 55,
+      "id": 10,
+      "tier": "5"
+    }
+  ]
+}
