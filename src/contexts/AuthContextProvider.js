@@ -33,11 +33,9 @@ const AuthContextProvider = ({ children }) => {
   };
 
   const login = async (email, password) => {
-    // console.log(user);
     let formData = new FormData();
     formData.append("username", email);
     formData.append("password", password);
-
     try {
       let res = await axios.post(`${API}api/token/`, formData, config);
       navigate("/");

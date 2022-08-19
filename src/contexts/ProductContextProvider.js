@@ -43,7 +43,6 @@ const ProductContextProvider = ({ children }) => {
     const { data } = await axios(
       `${JSON_API_PRODUCTS}/${window.location.search}`
     );
-
     dispatch({
       type: ACTIONS.GET_PRODUCTS,
       payload: data,

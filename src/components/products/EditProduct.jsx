@@ -11,7 +11,6 @@ const EditProduct = () => {
   const { id } = useParams();
   const navigate = useNavigate();
 
-  // console.log(productDetails);
   useEffect(() => {
     setProduct(productDetails);
   }, [productDetails]);

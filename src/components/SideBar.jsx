@@ -55,6 +55,7 @@ export default function SideBar() {
               name="radio-buttons-group"
               onChange={(e) => fetchByParams("tier", e.target.value)}
             >
+              <FormControlLabel value="all" label="All" control={<Radio />} />
               <FormControlLabel value="1" label="Tier 1" control={<Radio />} />
               <FormControlLabel value="2" label="Tier 2" control={<Radio />} />
               <FormControlLabel value="3" label="Tier 3" control={<Radio />} />
